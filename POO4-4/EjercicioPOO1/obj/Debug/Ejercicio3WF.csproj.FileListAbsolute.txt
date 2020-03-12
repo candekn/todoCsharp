@@ -1,0 +1,9 @@
+C:\Users\candelaria.d\source\repos\POO4-4\EjercicioPOO1\obj\Debug\Ejercicio3WF.csprojAssemblyReference.cache
+C:\Users\candelaria.d\source\repos\POO4-4\EjercicioPOO1\obj\Debug\EjercicioPOO1.Form1.resources
+C:\Users\candelaria.d\source\repos\POO4-4\EjercicioPOO1\obj\Debug\EjercicioPOO1.Properties.Resources.resources
+C:\Users\candelaria.d\source\repos\POO4-4\EjercicioPOO1\obj\Debug\Ejercicio3WF.csproj.GenerateResource.cache
+C:\Users\candelaria.d\source\repos\POO4-4\EjercicioPOO1\bin\Debug\EjercicioPOO1.exe.config
+C:\Users\candelaria.d\source\repos\POO4-4\EjercicioPOO1\bin\Debug\EjercicioPOO1.exe
+C:\Users\candelaria.d\source\repos\POO4-4\EjercicioPOO1\bin\Debug\EjercicioPOO1.pdb
+C:\Users\candelaria.d\source\repos\POO4-4\EjercicioPOO1\obj\Debug\EjercicioPOO1.exe
+C:\Users\candelaria.d\source\repos\POO4-4\EjercicioPOO1\obj\Debug\EjercicioPOO1.pdb

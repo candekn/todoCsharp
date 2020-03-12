@@ -1,0 +1,14 @@
+C:\Users\candelaria.d\source\repos\PracticaCodeFirstEF\CodeFirstNewDatabaseSample\bin\Debug\CodeFirstNewDatabaseSample.exe.config
+C:\Users\candelaria.d\source\repos\PracticaCodeFirstEF\CodeFirstNewDatabaseSample\bin\Debug\CodeFirstNewDatabaseSample.exe
+C:\Users\candelaria.d\source\repos\PracticaCodeFirstEF\CodeFirstNewDatabaseSample\bin\Debug\CodeFirstNewDatabaseSample.pdb
+C:\Users\candelaria.d\source\repos\PracticaCodeFirstEF\CodeFirstNewDatabaseSample\bin\Debug\EntityFramework.dll
+C:\Users\candelaria.d\source\repos\PracticaCodeFirstEF\CodeFirstNewDatabaseSample\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\candelaria.d\source\repos\PracticaCodeFirstEF\CodeFirstNewDatabaseSample\bin\Debug\EntityFramework.xml
+C:\Users\candelaria.d\source\repos\PracticaCodeFirstEF\CodeFirstNewDatabaseSample\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\candelaria.d\source\repos\PracticaCodeFirstEF\CodeFirstNewDatabaseSample\obj\Debug\CodeFirstNewDatabaseSample.csprojAssemblyReference.cache
+C:\Users\candelaria.d\source\repos\PracticaCodeFirstEF\CodeFirstNewDatabaseSample\obj\Debug\CodeFirstNewDatabaseSample.FRMBlog.resources
+C:\Users\candelaria.d\source\repos\PracticaCodeFirstEF\CodeFirstNewDatabaseSample\obj\Debug\CodeFirstNewDatabaseSample.Properties.Resources.resources
+C:\Users\candelaria.d\source\repos\PracticaCodeFirstEF\CodeFirstNewDatabaseSample\obj\Debug\CodeFirstNewDatabaseSample.csproj.GenerateResource.cache
+C:\Users\candelaria.d\source\repos\PracticaCodeFirstEF\CodeFirstNewDatabaseSample\obj\Debug\CodeFirstNewDatabaseSample.csproj.CopyComplete
+C:\Users\candelaria.d\source\repos\PracticaCodeFirstEF\CodeFirstNewDatabaseSample\obj\Debug\CodeFirstNewDatabaseSample.exe
+C:\Users\candelaria.d\source\repos\PracticaCodeFirstEF\CodeFirstNewDatabaseSample\obj\Debug\CodeFirstNewDatabaseSample.pdb

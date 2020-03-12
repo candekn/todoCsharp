@@ -1,0 +1,17 @@
+﻿body {
+}
+#p1{
+    color: red; 
+    font-size: large;
+}
+
+#p2{
+    color: forestgreen;
+    font-family:'Baskerville Old Face';
+    font-size: medium;
+}
+#p3{
+    padding:3px;
+    font-size:x-large;
+    color: darkviolet;
+}

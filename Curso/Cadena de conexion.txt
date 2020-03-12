@@ -1,0 +1,8 @@
+Data Source=.\SQLEXPRESS;Initial Catalog=dbCurso;Integrated Security=True
+
+1-Crear tabla producto: Columnas: 
+Id int identity pk, Nombre varchar(50), CategoriaId int, Proveedor varchar(50) 
+2-Definir las querys: consulta, insert, update, delete
+3-Ir a Entidades de vs: Agregar clase Producto
+4-Dal: Agregar clase AdminProducto
+5-Programar el metodo TraerTodos en adminProducto

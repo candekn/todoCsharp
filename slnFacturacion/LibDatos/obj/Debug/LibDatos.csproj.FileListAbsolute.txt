@@ -1,0 +1,5 @@
+C:\Users\candelaria.d\source\repos\slnFacturacion\LibDatos\bin\Debug\LibDatos.dll
+C:\Users\candelaria.d\source\repos\slnFacturacion\LibDatos\bin\Debug\LibDatos.pdb
+C:\Users\candelaria.d\source\repos\slnFacturacion\LibDatos\obj\Debug\LibDatos.csprojAssemblyReference.cache
+C:\Users\candelaria.d\source\repos\slnFacturacion\LibDatos\obj\Debug\LibDatos.dll
+C:\Users\candelaria.d\source\repos\slnFacturacion\LibDatos\obj\Debug\LibDatos.pdb

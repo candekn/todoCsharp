@@ -1,0 +1,12 @@
+C:\Users\candelaria.d\source\repos\slnFacturacion\WinFacturacion\bin\Debug\WinFacturacion.exe.config
+C:\Users\candelaria.d\source\repos\slnFacturacion\WinFacturacion\bin\Debug\WinFacturacion.exe
+C:\Users\candelaria.d\source\repos\slnFacturacion\WinFacturacion\bin\Debug\WinFacturacion.pdb
+C:\Users\candelaria.d\source\repos\slnFacturacion\WinFacturacion\bin\Debug\LibDatos.dll
+C:\Users\candelaria.d\source\repos\slnFacturacion\WinFacturacion\bin\Debug\LibDatos.pdb
+C:\Users\candelaria.d\source\repos\slnFacturacion\WinFacturacion\obj\Debug\WinFacturacion.csprojAssemblyReference.cache
+C:\Users\candelaria.d\source\repos\slnFacturacion\WinFacturacion\obj\Debug\WinFacturacion.FRMCliente.resources
+C:\Users\candelaria.d\source\repos\slnFacturacion\WinFacturacion\obj\Debug\WinFacturacion.Properties.Resources.resources
+C:\Users\candelaria.d\source\repos\slnFacturacion\WinFacturacion\obj\Debug\WinFacturacion.csproj.GenerateResource.cache
+C:\Users\candelaria.d\source\repos\slnFacturacion\WinFacturacion\obj\Debug\WinFacturacion.csproj.CopyComplete
+C:\Users\candelaria.d\source\repos\slnFacturacion\WinFacturacion\obj\Debug\WinFacturacion.exe
+C:\Users\candelaria.d\source\repos\slnFacturacion\WinFacturacion\obj\Debug\WinFacturacion.pdb
